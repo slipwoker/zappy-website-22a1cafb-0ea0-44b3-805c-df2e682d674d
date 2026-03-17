@@ -1,6 +1,4 @@
-# AI1 — Generative Engine Optimization Map
-
-> An AI tools directory website featuring comprehensive explanations of various AI software applications. The site includes multiple interactive buttons for different AI tools, where each button click reveals detailed information about that specific AI platform along with direct links to access it. The design emphasizes colorful, engaging visual elements and includes an FAQ section and detailed business information.
+# Business — Generative Engine Optimization Map
 
 ---
 
@@ -28,15 +26,7 @@ Information about WCAG compliance and accessibility features.
 
 # Business Context (for LLM understanding)
 
-## About AI1
-An AI tools directory website featuring comprehensive explanations of various AI software applications. The site includes multiple interactive buttons for different AI tools, where each button click reveals detailed information about that specific AI platform along with direct links to access it. The design emphasizes colorful, engaging visual elements and includes an FAQ section and detailed business information.
-
-## Target Audience
-משתמשים המעוניינים ללמוד על כלי AI
-
-## Industry
-טכנולוגיה ובינה מלאכותית
-
+## About Business
 ---
 
 # Additional Resources

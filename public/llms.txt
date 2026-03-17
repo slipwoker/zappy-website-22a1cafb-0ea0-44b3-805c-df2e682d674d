@@ -1,35 +1,45 @@
-# Business — Generative Engine Optimization Map
+# AI1 — Generative Engine Optimization Map
+
+> An AI tools directory website featuring comprehensive explanations of various AI software applications. The site includes multiple interactive buttons for different AI tools, where each button click reveals detailed information about that specific AI platform along with direct links to access it. The design emphasizes colorful, engaging visual elements and includes an FAQ section and detailed business information.
 
 ---
 
 ## Pages
 
 ### בית
-https://example.com
+https://ai1.zappy5.app
 AI1 מציע מדריך אינטראקטיבי לכלי בינה מלאכותית עם הסברים מפורטים, קישורים ישירים ועיצוב צבעוני. למדו על rode nt1 ai1, rode ai1 drivers ועוד כלים חדשניים!
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://ai1.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://ai1.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://ai1.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About AI1
+An AI tools directory website featuring comprehensive explanations of various AI software applications. The site includes multiple interactive buttons for different AI tools, where each button click reveals detailed information about that specific AI platform along with direct links to access it. The design emphasizes colorful, engaging visual elements and includes an FAQ section and detailed business information.
+
+## Target Audience
+משתמשים המעוניינים ללמוד על כלי AI
+
+## Industry
+טכנולוגיה ובינה מלאכותית
+
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://example.com/sitemap.xml
-- **Robots.txt**: https://example.com/robots.txt
+- **Sitemap**: https://ai1.zappy5.app/sitemap.xml
+- **Robots.txt**: https://ai1.zappy5.app/robots.txt
